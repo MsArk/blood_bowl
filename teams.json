@@ -1,0 +1,128 @@
+{
+  "teams": [
+    {
+      "Nombre":"Amazon",
+      "Imagen":"../teams/Amazon.png"
+    },
+    {
+      "Nombre":"Black Orc",
+      "Imagen":"./teams/Black Orc.png"
+    },
+    {
+      "Nombre":"Bretonnian",
+      "Imagen":"./teams/Bretonnian.gif"
+    },
+    {
+      "Nombre":"Chaos Chosen",
+      "Imagen":"./teams/Chaos Chosen.gif"
+    },
+    {
+      "Nombre":"Chaos Dwarf",
+      "Imagen":"./teams/Chaos Dwarf.gif"
+    },
+    {
+      "Nombre":"Chaos Renegade",
+      "Imagen":"./teams/Chaos Renegade.gif"
+    },
+    {
+      "Nombre":"Daemons of Khorne",
+      "Imagen":"./teams/Daemons of Khorne.gif"
+    },
+    {
+      "Nombre":"Dark Elf",
+      "Imagen":"./teams/Dark Elf.png"
+    },
+    {
+      "Nombre":"Dwarf",
+      "Imagen":"./teams/Dwarf.gif"
+    },
+    {
+      "Nombre":"Elven Union",
+      "Imagen":"./teams/Elven Union.png"
+    },
+    {
+      "Nombre":"Goblin",
+      "Imagen":"./teams/Goblin.png"
+    },
+    {
+      "Nombre":"Halfling",
+      "Imagen":"./teams/Halfling.png"
+    },
+    {
+      "Nombre":"High Elf",
+      "Imagen":"./teams/High Elf.png"
+    },
+    {
+      "Nombre":"Human",
+      "Imagen":"./teams/Human.gif"
+    },
+    {
+      "Nombre":"Imperial Nobility",
+      "Imagen":"./teams/Imperial Nobility.gif"
+    },
+    {
+      "Nombre":"Lizardmen",
+      "Imagen":"./teams/Lizardmen.png"
+    },
+    {
+      "Nombre":"Necromantic Horror",
+      "Imagen":"./teams/Necromantic Horror.png"
+    },
+    {
+      "Nombre":"Norse",
+      "Imagen":"./teams/Norse.gif"
+    },
+    {
+      "Nombre":"Nurgle",
+      "Imagen":"./teams/Nurgle.gif"
+    },
+    {
+      "Nombre":"Ogre",
+      "Imagen":"./teams/Ogre.gif"
+    },
+    {
+      "Nombre":"Old World Alliance",
+      "Imagen":"./teams/Old World Alliance.png"
+    },
+    {
+      "Nombre":"Orc",
+      "Imagen":"./teams/Orc.png"
+    },
+    {
+      "Nombre":"Shambling Undead",
+      "Imagen":"./teams/Shambling Undead.png"
+    },
+    {
+      "Nombre":"Simyin",
+      "Imagen":"./teams/Simyin.png"
+    },
+    {
+      "Nombre":"Skaven",
+      "Imagen":"./teams/Skaven.gif"
+    },
+    {
+      "Nombre":"Slann",
+      "Imagen":"./teams/Slann.png"
+    },
+    {
+      "Nombre":"Snotling",
+      "Imagen":"./teams/Snotling.png"
+    },
+    {
+      "Nombre":"Tomb Kings",
+      "Imagen":"./teams/Tomb Kings.gif"
+    },
+    {
+      "Nombre":"Underworld Denizens",
+      "Imagen":"./teams/Underworld Denizens.png"
+    },
+    {
+      "Nombre":"Vampire",
+      "Imagen":"./teams/Vampire.gif"
+    },
+    {
+      "Nombre":"Wood Elf",
+      "Imagen":"./teams/Wood Elf.gif"
+    }
+  ]
+}
