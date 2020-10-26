@@ -1,128 +1,159 @@
 {
-  "teams": [
-    {
-      "Nombre":"Amazon",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.png"
-    },
-    {
-      "Nombre":"Black Orc",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngBlack Orc.png"
-    },
-    {
-      "Nombre":"Bretonnian",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngBretonnian.gif"
-    },
-    {
-      "Nombre":"Chaos Chosen",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngChaos Chosen.gif"
-    },
-    {
-      "Nombre":"Chaos Dwarf",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngChaos Dwarf.gif"
-    },
-    {
-      "Nombre":"Chaos Renegade",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngChaos Renegade.gif"
-    },
-    {
-      "Nombre":"Daemons of Khorne",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngDaemons of Khorne.gif"
-    },
-    {
-      "Nombre":"Dark Elf",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngDark Elf.png"
-    },
-    {
-      "Nombre":"Dwarf",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngDwarf.gif"
-    },
-    {
-      "Nombre":"Elven Union",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngElven Union.png"
-    },
-    {
-      "Nombre":"Goblin",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngGoblin.png"
-    },
-    {
-      "Nombre":"Halfling",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngHalfling.png"
-    },
-    {
-      "Nombre":"High Elf",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngHigh Elf.png"
-    },
-    {
-      "Nombre":"Human",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngHuman.gif"
-    },
-    {
-      "Nombre":"Imperial Nobility",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngImperial Nobility.gif"
-    },
-    {
-      "Nombre":"Lizardmen",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngLizardmen.png"
-    },
-    {
-      "Nombre":"Necromantic Horror",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngNecromantic Horror.png"
-    },
-    {
-      "Nombre":"Norse",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngNorse.gif"
-    },
-    {
-      "Nombre":"Nurgle",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngNurgle.gif"
-    },
-    {
-      "Nombre":"Ogre",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngOgre.gif"
-    },
-    {
-      "Nombre":"Old World Alliance",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngOld World Alliance.png"
-    },
-    {
-      "Nombre":"Orc",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngOrc.png"
-    },
-    {
-      "Nombre":"Shambling Undead",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngShambling Undead.png"
-    },
-    {
-      "Nombre":"Simyin",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngSimyin.png"
-    },
-    {
-      "Nombre":"Skaven",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngSkaven.gif"
-    },
-    {
-      "Nombre":"Slann",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngSlann.png"
-    },
-    {
-      "Nombre":"Snotling",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngSnotling.png"
-    },
-    {
-      "Nombre":"Tomb Kings",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngTomb Kings.gif"
-    },
-    {
-      "Nombre":"Underworld Denizens",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngUnderworld Denizens.png"
-    },
-    {
-      "Nombre":"Vampire",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngVampire.gif"
-    },
-    {
-      "Nombre":"Wood Elf",
-      "Imagen":"https://github.com/MsArk/blood_bowl/blob/main/teams/Amazon.pngWood Elf.gif"
-    }
-  ]
+    "Teams": [
+        {
+            "TID": "1",
+            "Nombre": "Amazon",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Amazon.png"
+        },
+        {
+            "TID": "2",
+            "Nombre": "Black Orc",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Black Orc.png"
+        },
+        {
+            "TID": "3",
+            "Nombre": "Bretonnian",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Bretonnian.gif"
+        },
+        {
+            "TID": "4",
+            "Nombre": "Chaos Chosen",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Chaos Chosen.gif"
+        },
+        {
+            "TID": "5",
+            "Nombre": "Chaos Dwarf",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Chaos Dwarf.gif"
+        },
+        {
+            "TID": "6",
+            "Nombre": "Chaos Renegade",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Chaos Renegade.gif"
+        },
+        {
+            "TID": "7",
+            "Nombre": "Daemons of Khorne",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Daemons of Khorne.gif"
+        },
+        {
+            "TID": "8",
+            "Nombre": "Dark Elf",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Dark Elf.png"
+        },
+        {
+            "TID": "9",
+            "Nombre": "Dwarf",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Dwarf.gif"
+        },
+        {
+            "TID": "10",
+            "Nombre": "Elven Union",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Elven Union.png"
+        },
+        {
+            "TID": "11",
+            "Nombre": "Goblin",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Goblin.png"
+        },
+        {
+            "TID": "12",
+            "Nombre": "Halfling",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Halfling.png"
+        },
+        {
+            "TID": "13",
+            "Nombre": "High Elf",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/High Elf.png"
+        },
+        {
+            "TID": "14",
+            "Nombre": "Human",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Human.gif"
+        },
+        {
+            "TID": "15",
+            "Nombre": "Imperial Nobility",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Imperial Nobility.gif"
+        },
+        {
+            "TID": "16",
+            "Nombre": "Lizardmen",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Lizardmen.png"
+        },
+        {
+            "TID": "17",
+            "Nombre": "Necromantic Horror",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Necromantic Horror.png"
+        },
+        {
+            "TID": "18",
+            "Nombre": "Norse",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Norse.gif"
+        },
+        {
+            "TID": "19",
+            "Nombre": "Nurgle",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Nurgle.gif"
+        },
+        {
+            "TID": "20",
+            "Nombre": "Ogre",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Ogre.gif"
+        },
+        {
+            "TID": "21",
+            "Nombre": "Old World Alliance",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Old World Alliance.png"
+        },
+        {
+            "TID": "22",
+            "Nombre": "Orc",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Orc.png"
+        },
+        {
+            "TID": "23",
+            "Nombre": "Shambling Undead",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Shambling Undead.png"
+        },
+        {
+            "TID": "24",
+            "Nombre": "Simyin",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Simyin.png"
+        },
+        {
+            "TID": "25",
+            "Nombre": "Skaven",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Skaven.gif"
+        },
+        {
+            "TID": "26",
+            "Nombre": "Slann",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Slann.png"
+        },
+        {
+            "TID": "27",
+            "Nombre": "Snotling",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Snotling.png"
+        },
+        {
+            "TID": "28",
+            "Nombre": "Tomb Kings",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Tomb Kings.gif"
+        },
+        {
+            "TID": "29",
+            "Nombre": "Underworld Denizens",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Underworld Denizens.png"
+        },
+        {
+            "TID": "30",
+            "Nombre": "Vampire",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Vampire.gif"
+        },
+        {
+            "TID": "31",
+            "Nombre": "Wood Elf",
+            "Imagen": "https://raw.githubusercontent.com/MsArk/blood_bowl/main/teams/Wood Elf.gif"
+        }
+    ]
 }
